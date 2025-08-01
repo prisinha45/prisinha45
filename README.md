@@ -1,73 +1,50 @@
-# 👋 Hey there, I’m Priya Sinha!
+# 👋 Hi, I'm Priya Sinha!
 
-🚀 *Aspiring Data Scientist* | 🧠 *Machine Learning Explorer* | 🛠️ *Builder of Clean & Scalable Code*
-
-Welcome to my GitHub! I’m a curious and driven learner passionate about turning data into insights, building smart systems, and leveling up through every project. Whether it's creating ML models to solve real-world problems or debugging a stubborn API, I’m here for the ride — with coffee ☕ and code 💻 in hand.
-
----
-
-## 🧑‍🎓 About Me
-
-🎓 **Program:** Computer Science  
-🏫 **Institution:** Barnard College of Columbia University  
-💡 **Interests:** Machine Learning, Artificial Intelligence, Neural Networks, Web Development, Software Engineering  
-🌱 **Currently Learning:** AWS, Multi-Channel Processing (MCP) with Bedrock Knowledge Bases, RESTful APIs, Deep Learning  
-💼 **Break Through Tech Fellow:** <Briefly describe your work and experience as a fellow>  
-📍 **Location:** New York City, NY  
-📫 **Reach Me At:** PriSinha45@gmail.com • [LinkedIn](https://www.linkedin.com/in/priya-sinha45)
+🎓 Computer Science (B.A.) @ Barnard College, Columbia University  
+📍 Based in NYC | 🌎 First-gen student | 💡 Break Through Tech ML Fellow  
+📬 ps3491@barnard.edu | [LinkedIn](https://linkedin.com/in/priya-sinha45)
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 About Me
 
-**Languages**  
-🐍 Python • ☕ Java • 🌐 JavaScript • 💻 HTML/CSS
+Hey there! I’m **Priya**, a passionate CS major and ML enthusiast on a mission to build **intelligent, scalable systems** that solve real-world problems. Whether I’m designing secure backend APIs through Model Context Protocol at **Travelers**, enhancing user experience through front-end magic at **ParaKIDS**, or developing neural networks through **Break Through Tech’s ML Fellowship**, I bring **curiosity**, **resilience**, and a love for learning into every space I enter. 
 
-**Frameworks & Libraries**  
-📊 Seaborn • 📈 Matplotlib • 🌲 Node.js • 📦 scikit-learn • 🔬 Pandas • 🔧 NumPy
-
-**Databases & Cloud**  
-🐘 PostgreSQL • ☁️ AWS
-
-**Dev Tools & Practices**  
-🔁 Git • ✅ Test-Driven Development • 🧪 Jupyter Notebooks • 🔍 REST APIs
+Currently working on:
+- 🧠 AI-integrated microservices & LLM tools at Travelers
+- 🖼️ Creative web UX design & interactivity
+- 📊 Model training + data visualization using Python, Scikit-learn, and friends
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Tech Stack & Tools
 
-> ✨ Replace with your own projects — show off your skills, creativity, and impact!
-
-### 📊 [Project Title 1](GitHub Repo URL)  
-🔍 _Description:_ What did you build and why does it matter?  
-🛠 _Tech Stack:_ Python, Flask, Pandas  
-🚀 _Impact:_ Improved XYZ by 25% and saved 10+ hours of manual work per week
+**🧠 Languages:** `🐍 Python` `☕ Java` `🌐 JavaScript` `🎨 HTML/CSS`  
+**🤖 ML Tools:** `🐼 Pandas` `📊 NumPy` `📦 Scikit-learn` `📈 Matplotlib` `🌊 Seaborn`  
+**🛠️ Dev Tools:** `🔧 Git` `💻 VS Code` `☁️ AWS` `🔐 Okta` `🔁 REST APIs`
 
 ---
 
-### 🧠 [Project Title 2](GitHub Repo URL)  
-💬 _Description:_ Sentiment analyzer for social media feedback  
-🛠 _Tech Stack:_ scikit-learn, spaCy  
-📈 _Results:_ Achieved 85% accuracy — 20% above baseline
+## 💼 Experience Highlights
+
+### 💻 Software Engineering Intern @ Travelers (Summer 2025)
+- Migrated REST APIs into Remote MCP Server architecture with LLM integrations like **TravAI**
+- Developed secure, Okta-authenticated endpoints & supported AI workflows using AWS Bedrock
+- Contributed to scalable AI-powered tools alongside engineers in agile sprints  
+
+### 📚 Web Developer Intern @ ParaKIDS
+- Rebuilt a **dynamic WordPress** e-commerce site with custom HTML/CSS/JS features  
+- Enhanced user engagement via interactive design, shopping carts & smooth UX transitions
 
 ---
 
-### 🌐 [Project Title 3](GitHub Repo URL)  
-💡 _Description:_ Built a web dashboard to visualize income inequality  
-🛠 _Tech Stack:_ React, Node.js, Chart.js, PostgreSQL  
-🌍 _Use Case:_ Helps policymakers make data-informed decisions
+## 🌟 ML Fellowship Spotlight
 
----
-
-## 📌 AI Fellowship Spotlight
-
-🔬 **AI Studio Project**  
-As part of the Break Through Tech AI Studio, I collaborated on a team project addressing a real-world client challenge using machine learning.
-
-- 🤖 **Built:** A predictive model for sentiment classification  
-- 🛠 **Tools:** Python, scikit-learn, spaCy, Pandas  
-- 🎯 **Impact:** Achieved 85% accuracy; enabled data-driven feedback loops  
-- 📎 [View the Project](GitHub Repo URL)
+### 🤖 Break Through Tech AI Fellow (Cornell Tech x MIT)  
+- Selected from 4,000+ students for an 18-month AI program  
+- Completed an 8-week summer ML curriculum focused on **real-world applications**  
+- Built models using `Python`, `Scikit-learn`, `Matplotlib`, and more  
+- Earned the **Machine Learning Foundations Certificate**
 
 ---
 
@@ -89,13 +66,8 @@ When I’m not coding, you’ll find me...
 
 ---
 
-## 🤝 Let's Connect!
+## 📌 Let’s Connect!
 
-- 🔗 **LinkedIn:** [linkedin.com/in/priya-sinha45](https://www.linkedin.com/in/priya-sinha45)  
-- 📧 **Email:** PriSinha45@gmail.com  
-
----
-
-_Thanks for stopping by — let’s build something cool together!_ 💻🚀🌟
-
+I'm always open to chatting about AI/ML, creative tech projects, or mentorship!  
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/priya-sinha45) or email me at **ps3491@barnard.edu**.
 

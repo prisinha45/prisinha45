@@ -48,11 +48,11 @@ Currently working on:
 
 ---
 
-## 🔥 GitHub Stats
+<!--## 🔥 GitHub Stats
 
 [![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisinha45)](https://github.com/prisinha45/github-readme-stats)
 
----
+----->
 
 ## 🧩 Hobbies & Fun
 

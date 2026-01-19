@@ -27,6 +27,14 @@ Currently working on:
 
 ## 💼 Experience Highlights
 
+### 🤖 Spring AI Studio Fellow — Break Through Tech
+- Selected for a 4-month, project-based program focused on building production-ready AI agents
+- Design and implement agentic architectures using LangGraph/LangChain with Google Gemini
+- Build end-to-end agent systems incorporating RAG pipelines, tool integrations, memory, and error handling
+- Deploy and evaluate agent applications using systematic testing, custom metrics, and data-driven optimization
+- Collaborate in a small team (2–4 members) to deliver a fully documented, working AI agent
+- Present final project through a live demo and technical presentation to industry professionals
+
 ### 💻 Software Engineering Intern @ Travelers (Summer 2025)
 - Migrated REST APIs into Remote MCP Server architecture with LLM integrations like **TravAI**
 - Developed secure, Okta-authenticated endpoints & supported AI workflows using AWS Bedrock

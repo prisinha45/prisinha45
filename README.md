@@ -32,7 +32,7 @@ Currently working on:
 - Design and implement agentic architectures using LangGraph/LangChain with Google Gemini
 - Build end-to-end agent systems incorporating RAG pipelines, tool integrations, memory, and error handling
 - Deploy and evaluate agent applications using systematic testing, custom metrics, and data-driven optimization
-- Collaborate in a small team (2–4 members) to deliver a fully documented, working AI agent
+- Collaborate with 4 members to deliver a fully documented, working AI agent that transcribes meetings and message workspaces for tasks and assigns them to the respected individuals
 - Present final project through a live demo and technical presentation to industry professionals
 
 ### 💻 Software Engineering Intern @ Travelers (Summer 2025)

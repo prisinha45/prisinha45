@@ -71,7 +71,7 @@ Currently working on:
 ## 🏆 Leadership & Extracurriculars
 **DevFest Co-Lead — Application Development Initiative (ADI)**  
 - Co-lead Columbia’s annual largest hackathon, managing ~30 organizers across logistics, sponsorship, marketing, and operations
-- Coordinate planning for an event with **600+ participants** from across the U.S.
+- Coordinate planning for an event with **300+ participants** from across the U.S.
 - Work with sponsors, judges, and university partners to execute a high-impact technical event
 
 **Additional Involvement:**  
